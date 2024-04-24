@@ -1,2 +1,2 @@
-# installTG.sh
-Script to install Telegram Direct
+Comments? OK
+Simple and functional script? Yes

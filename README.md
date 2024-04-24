@@ -1,2 +1,2 @@
-Comments? OK
-Simple and functional script? Yes
++ Comments? OK
+* Simple and functional script? Yes
